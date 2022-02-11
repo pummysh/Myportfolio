@@ -18,60 +18,9 @@ function SelfIntro() {
               I developed passion for coding a few years back when I printed my first <span style={{color: "#0A81AB" , fontStyle:"italic"}}> "Hello world"</span> 😃, that hello world just hits different 😌 . Since then aesthetically functional websites has just been my thing.
             </p>
           </Col>
-          {/* <Col md={4} className="myAvtar">
-            <Tilt>
-              <img src={myImg} className="img-fluid" alt="avatar" />
-            </Tilt>
-          </Col> */}
+        
         </Row>
         <Row>
-          <Col md={12} className="home-about-social">
-            {/* <h1>FIND ME ON</h1> */}
-
-            <ul className="home-about-social-links">
-              {/* <li className="social-icons">
-                <a
-                  href="https://github.com/pummysh"
-                  target="_blank"
-                  rel="noreferrer"
-                  className="icon-colour  home-social-icons"
-                >
-                  <AiFillGithub />
-                </a>
-              </li>
-
-              <li className="social-icons">
-                <a
-                  href="https://www.linkedin.com/in/pummy-sharma-172514218/"
-                  target="_blank"
-                  rel="noreferrer"
-                  className="icon-colour  home-social-icons"
-                >
-                  <FaLinkedinIn />
-                </a>
-              </li> */}
-              {/* <li className="social-icons">
-                <a
-                  href="https://www.instagram.com/sijeeshmiziha/"
-                  target="_blank"
-                  rel="noreferrer"
-                  className="icon-colour home-social-icons"
-                >
-                  <AiFillInstagram />
-                </a>
-              </li> */}
-              {/* <li className="social-icons">
-                <a
-                  href="https://youtube.com/c/SijeeshMiziha"
-                  target="_blank"
-                  rel="noreferrer"
-                  className="icon-colour  home-social-icons"
-                >
-                  <AiOutlineYoutube />
-                </a>
-              </li> */}
-            </ul>
-          </Col>
         </Row>
       </Container>
     </Container>
